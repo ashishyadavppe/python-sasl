@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+# Original repo at Cloudera - https://github.com/cloudera/python-sasl/blob/master/setup.py
 """
 setup.py file for SWIG example
 """
